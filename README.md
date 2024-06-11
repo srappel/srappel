@@ -1,5 +1,7 @@
 :sunglasses: Hi, I’m Stephen and I use he/him pronouns
 
+:clock430: I work at the American Geographical Society Library at UW-Milwaukee
+
 :mortar_board: I’m interested in GIS, Libraries, Geography, and Information Literacy.
 
 🪚 I'm a certified Carpentries instructor and co-chair of the Data Carpentry Geospatial Curriculum Advisory Committee
